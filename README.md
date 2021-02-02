@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 个人
+
+1. [工作中的一些经验和学习记录](https://github.com/h521822/work-file)
