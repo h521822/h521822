@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 - 学习
 - 备忘录
 
+2. 🌱[个人博客](https://github.com/h521822/h521822.github.io)
+
+3. 🌱[量化金融](https://github.com/h521822/quantitative_finance)
+
+## Python
+
+1. ⚡[验证码识别训练](https://github.com/h521822/verification-code)
+
 2. 🌱[Python爬虫实例](https://github.com/h521822/python-crawler)
 
 - 美桌图片
@@ -34,7 +42,3 @@ Here are some ideas to get you started:
 - 娟娟壁纸
 - 云港通
 - Lme
-
-3. 🌱[个人博客](https://github.com/h521822/h521822.github.io)
-
-4. 🌱[量化金融](https://github.com/h521822/quantitative_finance)
