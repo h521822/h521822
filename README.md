@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 
 3. [Python Django](https://github.com/h521822/djangoLearn)
 
+4. [Python学习](https://github.com/h521822/python-maiden)
+
+
+
 ## VUE
 
 1. [VUE搭建](https://github.com/h521822/VUE-Learn)
