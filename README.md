@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 - 娟娟壁纸
 - 云港通
 - Lme
+
+3. [Python Django](https://github.com/h521822/djangoLearn)
