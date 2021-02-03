@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 ## Java
 
 1. [SpringBoot-Mybatis](https://github.com/h521822/SpringBoot-Mybatis)
+2. [SpringBoot-Mybatis实例](https://github.com/h521822/wanbao-frame-wbmining)
