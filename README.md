@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 1. ⚡[验证码识别训练](https://github.com/h521822/verification-code)
 
-2. 🌱[Python爬虫实例](https://github.com/h521822/python-crawler)
+2. ⚡[Python爬虫实例](https://github.com/h521822/python-crawler)
 
 - 美桌图片
 - 美桌网
@@ -43,18 +43,18 @@ Here are some ideas to get you started:
 - 云港通
 - Lme
 
-3. [Python Django](https://github.com/h521822/djangoLearn)
+3. ⚡[Python Django](https://github.com/h521822/djangoLearn)
 
-4. [Python学习](https://github.com/h521822/python-maiden)
+4. ⚡[Python学习](https://github.com/h521822/python-maiden)
 
 
 
 ## VUE
 
-1. [VUE搭建](https://github.com/h521822/VUE-Learn)
+1. 🔭[VUE搭建](https://github.com/h521822/VUE-Learn)
 
 
 ## Java
 
-1. [SpringBoot-Mybatis](https://github.com/h521822/SpringBoot-Mybatis)
-2. [SpringBoot-Mybatis实例](https://github.com/h521822/wanbao-frame-wbmining)
+1. 😄[SpringBoot-Mybatis](https://github.com/h521822/SpringBoot-Mybatis)
+2. 😄[SpringBoot-Mybatis实例](https://github.com/h521822/wanbao-frame-wbmining)
